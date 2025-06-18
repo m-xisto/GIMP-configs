@@ -1,0 +1,15 @@
+# GIMP user context
+
+(tool "gimp-move-tool")
+(paint-info "gimp-paintbrush")
+(background (color-rgb 0.50196081399917603 0.50196081399917603 0.50196081399917603))
+(brush "SLOS_round")
+(dynamics "Pr-Opacity(air)")
+(mybrush "charcoal 01")
+(pattern "Standard")
+(gradient "Standard")
+(palette "lospec500.gpl")
+(font "Sans-serif")
+(tool-preset "Core Pointer")
+
+# end of user context

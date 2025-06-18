@@ -1,0 +1,8 @@
+# settings
+
+(GimpGegl-gegl-cartoon-config "2024-06-16 18:28:22"
+    (time 1718573302)
+    (mask-radius 7)
+    (pct-black 0.20000000000000001))
+
+# end of settings

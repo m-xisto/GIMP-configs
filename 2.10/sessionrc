@@ -1,0 +1,134 @@
+# GIMP sessionrc
+# 
+# This file takes session-specific info (that is info, you want to keep
+# between two GIMP sessions).  You are not supposed to edit it manually, but
+# of course you can do.  The sessionrc will be entirely rewritten every time
+# you quit GIMP.  If this file isn't found, defaults are used.
+
+(session-info "toplevel"
+    (factory-entry "gimp-empty-image-window")
+    (position 200 100)
+    (size 640 480))
+(session-info "toplevel"
+    (factory-entry "gimp-single-image-window")
+    (position 0 40)
+    (size 1440 823)
+    (open-on-exit)
+    (aux-info
+        (left-docks-width "44")
+        (right-docks-width "292")
+        (maximized "yes"))
+    (gimp-toolbox
+        (side left))
+    (gimp-dock
+        (side right)
+        (book
+            (current-page 0)
+            (dockable "gimp-tool-options"
+                (tab-style automatic)
+                (aux-info
+                    (show-button-bar "true")))
+            (dockable "gimp-brush-grid"
+                (tab-style icon)
+                (aux-info
+                    (show-button-bar "true")))
+            (dockable "gimp-color-editor"
+                (locked)
+                (tab-style icon)
+                (aux-info
+                    (current-page "GimpColorSelectorPalette")))
+            (dockable "gimp-pattern-grid"
+                (tab-style icon)
+                (aux-info
+                    (show-button-bar "true")))
+            (dockable "gimp-font-list"
+                (tab-style icon)
+                (aux-info
+                    (show-button-bar "true")))
+            (dockable "gimp-document-list"
+                (tab-style icon)
+                (aux-info
+                    (show-button-bar "true")))
+            (dockable "gimp-tool-preset-list"
+                (tab-style icon)
+                (preview-size 48)
+                (aux-info
+                    (show-button-bar "true")))
+            (dockable "gimp-palette-list"
+                (tab-style icon)
+                (preview-size 48)
+                (aux-info
+                    (show-button-bar "true"))))
+        (book
+            (position 506)
+            (current-page 0)
+            (dockable "gimp-layer-list"
+                (tab-style automatic)
+                (preview-size 24)
+                (aux-info
+                    (show-button-bar "true")))
+            (dockable "gimp-undo-history"
+                (tab-style automatic)
+                (aux-info
+                    (show-button-bar "true")))
+            (dockable "gimp-channel-list"
+                (tab-style automatic)
+                (preview-size 32)
+                (aux-info
+                    (show-button-bar "true")))
+            (dockable "gimp-vectors-list"
+                (tab-style automatic)
+                (preview-size 32)
+                (aux-info
+                    (show-button-bar "true"))))))
+(session-info "toplevel"
+    (factory-entry "gimp-file-export-dialog")
+    (position 170 198)
+    (size 948 709))
+(session-info "toplevel"
+    (factory-entry "gimp-preferences-dialog")
+    (position 208 57)
+    (size 1053 651))
+(session-info "toplevel"
+    (factory-entry "gimp-image-new-dialog")
+    (position 450 84))
+(session-info "toplevel"
+    (factory-entry "gimp-action-search-dialog")
+    (position 487 215)
+    (size 524 512))
+(session-info "toplevel"
+    (factory-entry "gimp-levels-tool-dialog")
+    (position 785 202)
+    (size 495 571))
+(session-info "toplevel"
+    (factory-entry "gimp-operation-tool-dialog")
+    (position 880 73))
+(session-info "toplevel"
+    (factory-entry "gimp-curves-tool-dialog")
+    (position 940 145)
+    (size 408 559))
+(session-info "toplevel"
+    (factory-entry "gimp-toolbox-color-dialog")
+    (position 0 0))
+(session-info "toplevel"
+    (factory-entry "gimp-file-save-dialog")
+    (position 45 40)
+    (size 948 709))
+(session-info "toplevel"
+    (factory-entry "gimp-file-open-dialog")
+    (position 0 0)
+    (size 948 709))
+(session-info "toplevel"
+    (factory-entry "gimp-input-devices-dialog")
+    (position 102 222))
+(session-info "toplevel"
+    (factory-entry "gimp-brightness-contrast-tool-dialog")
+    (position 547 499))
+
+(hide-docks no)
+(single-window-mode yes)
+(show-tabs yes)
+(tabs-position 0)
+(last-tip-shown 0)
+
+# end of sessionrc

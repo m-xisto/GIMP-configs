@@ -1,0 +1,49 @@
+# settings
+
+(GimpGegl-gegl-recursive-transform-config "2024-12-21 12:32:06"
+    (time 1734795126)
+    (transform "matrix(0.81871342658996582,0,0,0,0.86124998331069946,0,-26.999999999999886,126,1)")
+    (first-iteration 0)
+    (iterations 5)
+    (fade-color (color-rgba 0 0 0 0))
+    (fade-opacity 0.47899999999999998)
+    (paste-below no)
+    (sampler-type linear))
+(GimpGegl-gegl-recursive-transform-config "2024-08-21 12:36:16"
+    (time 1724254576)
+    (transform "matrix(0.98269230127334595,0,0,0,0.82352942228317261,0,-0.5,47,1)")
+    (first-iteration 0)
+    (iterations 10)
+    (fade-color (color-rgba 0 0 0 0))
+    (fade-opacity 1)
+    (paste-below no)
+    (sampler-type linear))
+(GimpGegl-gegl-recursive-transform-config "2024-08-17 14:59:23"
+    (time 1723917563)
+    (transform "matrix(1.171875,0,0,0,1.0388889312744141,0,-156,12,1)")
+    (first-iteration 0)
+    (iterations 8)
+    (fade-color (color-rgba 0 0 0 0))
+    (fade-opacity 1)
+    (paste-below no)
+    (sampler-type linear))
+(GimpGegl-gegl-recursive-transform-config "2024-08-17 14:58:06"
+    (time 1723917486)
+    (transform "matrix(1.1937500238418579,0,0,3.2945250530504956e-17,1.2055555582046509,-1.8370957621766761e-19,-179.33332824707031,-58,1)")
+    (first-iteration 0)
+    (iterations 5)
+    (fade-color (color-rgba 0 0 0 0))
+    (fade-opacity 1)
+    (paste-below no)
+    (sampler-type linear))
+(GimpGegl-gegl-recursive-transform-config "2024-08-17 14:51:09"
+    (time 1723917069)
+    (transform "matrix(1.1687500476837158,0,0,0,1.1916667222976685,0,-153,-24,1)")
+    (first-iteration 0)
+    (iterations 4)
+    (fade-color (color-rgba 0 0 0 0))
+    (fade-opacity 1)
+    (paste-below no)
+    (sampler-type linear))
+
+# end of settings
