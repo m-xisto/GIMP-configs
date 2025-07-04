@@ -1,0 +1,6 @@
+# GIMP color profile history
+
+(color-profile "Coated FOGRA39 (ISO 12647-2:2004)" "${gimp_dir}/color-profiles/CMYK/CoatedFOGRA39.icc")
+(color-profile "Adobe RGB (1998)" "${gimp_dir}/color-profiles/RGB/AdobeRGB1998.icc")
+
+# end of color profile history

@@ -1,0 +1,13 @@
+# GIMP gimp-crop-tool options
+
+(aspect-denominator 3303)
+(aspect-numerator 1896)
+(fixed-rule height)
+(foreground
+    (color "R'G'B'A u8" 4 "\27k\371\377" 0))
+(background
+    (color "R'G'B'A float" 16 "\0\0\0\0\0\0\0\0\0\0\0\0\0\0\200\77" 0))
+(pattern "stone-Windshield 7 AM.jpg")
+(allow-growing yes)
+
+# end of gimp-crop-tool options

@@ -1,0 +1,14 @@
+# GIMP gimp-text-tool options
+
+(foreground
+    (color "R'G'B'A u8" 4 "\27k\371\377" 0))
+(palette "aap-64.gpl")
+(font "Monospace Bold")
+(justify center)
+(box-mode fixed)
+(outline-foreground
+    (color "HSVA float" 16 "\0\0\0\0\0\0\0\0\0\0\0\0\0\0\200\77" 0))
+(outline-width 6)
+(outline-miter-limit 21.50537634408602)
+
+# end of gimp-text-tool options

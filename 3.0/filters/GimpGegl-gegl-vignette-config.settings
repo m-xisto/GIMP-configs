@@ -1,0 +1,45 @@
+# settings
+
+(GimpGegl-gegl-vignette-config "2025-05-29 23:20:25"
+    (time 1748571625)
+    (shape circle)
+    (color
+        (color "R'G'B'A float" 16 "\0\0\0\0\0\0\0\0\0\0\0\0\0\0\200\77" 0))
+    (radius 1.6931133144298762)
+    (softness 0.85824929852328558)
+    (gamma 1.1322569959000939)
+    (proportion 1)
+    (squeeze -0.039881386064544541)
+    (x 0.46882009151499765)
+    (y 0.39127448387307012)
+    (rotation 0))
+(GimpGegl-gegl-vignette-config "2025-04-26 00:13:35"
+    (time 1745637215)
+    (gimp-opacity 0.67299999999999993)
+    (shape circle)
+    (color
+        (color "R'G'B'A float" 16 "\0\0\0\0\0\0\0\0\0\0\0\0\0\0\200\77" 0))
+    (radius 1.9689562019487614)
+    (softness 0.59691063267233468)
+    (gamma 3.9353728650946098)
+    (proportion 1)
+    (squeeze -0.073000000000000023)
+    (x 0.49065760948420789)
+    (y 0.42327115511551078)
+    (rotation 0))
+(GimpGegl-gegl-vignette-config "2025-04-26 00:08:59"
+    (time 1745636939)
+    (gimp-opacity 0.67299999999999993)
+    (shape circle)
+    (color
+        (color "R'G'B'A float" 16 "\0\0\0\0\0\0\0\0\0\0\0\0\0\0\200\77" 0))
+    (radius 1.7542713110656822)
+    (softness 0.80000000000000004)
+    (gamma 3.9353728650946098)
+    (proportion 1)
+    (squeeze -0.073000000000000023)
+    (x 0.49065760948420789)
+    (y 0.42327115511551078)
+    (rotation 0))
+
+# end of settings

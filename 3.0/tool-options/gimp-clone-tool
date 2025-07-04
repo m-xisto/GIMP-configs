@@ -1,0 +1,16 @@
+# GIMP gimp-clone-tool options
+
+(foreground
+    (color "R'G'B'A u8" 4 "\27k\371\377" 0))
+(background
+    (color "R'G'B'A float" 16 "\0\0\0\0\0\0\0\0\0\0\0\0\0\0\200\77" 0))
+(brush "SLOS_round")
+(dynamics "Pr-Opacity(air)")
+(pattern "stone-Windshield 7 AM.jpg")
+(palette "aap-64.gpl")
+(brush-size 5)
+(brush-force 0.89000000000000001)
+(fade-length 138)
+(fade-unit percent)
+
+# end of gimp-clone-tool options

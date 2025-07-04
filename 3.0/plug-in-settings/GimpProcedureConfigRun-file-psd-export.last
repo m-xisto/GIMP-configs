@@ -1,0 +1,13 @@
+# settings
+
+(clippingpath no)
+(clippingpathflatness 0.20000000000000001)
+(cmyk no)
+(duotone no)
+(include-exif no)
+(include-iptc no)
+(include-xmp no)
+(include-color-profile no)
+(include-thumbnail no)
+
+# end of settings

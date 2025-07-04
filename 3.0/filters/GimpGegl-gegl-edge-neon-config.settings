@@ -1,0 +1,8 @@
+# settings
+
+(GimpGegl-gegl-edge-neon-config "2024-06-16 18:28:51"
+    (time 1718573331)
+    (radius 5)
+    (amount 0))
+
+# end of settings
